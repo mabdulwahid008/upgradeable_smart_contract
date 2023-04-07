@@ -29,6 +29,8 @@
     "typescript": "^5.0.3"
   },
   "dependencies": {
-    "@nomicfoundation/hardhat-toolbox": "^2.0.2"
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "@openzeppelin/hardhat-upgrades": "^1.22.1",
+    "dotenv": "^16.0.3"
   }
 }

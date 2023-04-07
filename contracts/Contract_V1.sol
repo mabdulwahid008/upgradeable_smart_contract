@@ -2,7 +2,7 @@
 pragma solidity ^0.8.9;
 
 
-contract UpgradeableContract {
+contract Contract_V1 {
     uint256 private num;
 
     function setNum(uint256 _num) public {
